@@ -73,14 +73,6 @@ Laravel • Filament • Alpine.js
 
 ---
 
-## 📊 GitHub Stats
-
-![Kuldeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mekuldeep\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mekuldeep\&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
 💼 LinkedIn
