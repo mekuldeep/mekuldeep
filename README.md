@@ -1,16 +1,94 @@
-## Hi there 👋
+# Hi 👋 I'm Kuldeep Sharma
 
-<!--
-**mekuldeep/mekuldeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend Developer | Python & AI Enthusiast**
 
-Here are some ideas to get you started:
+Backend developer with **2+ years of experience** building scalable backend systems, REST APIs, and data-driven applications.
+Currently exploring **AI-powered backend solutions**, automation systems, and LLM integrations while pursuing an **MSc in Computer Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🔭 Currently working as **Backend Developer**
+* 🧠 Interested in **AI-powered backend systems**
+* 🌱 Learning **Python, LLMs, LangChain, and AI integrations**
+* 💡 Passionate about building **AI SaaS products**
+* 🎓 MSc Computer Science Student
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+
+Python • PHP • JavaScript • SQL • Java • C++
+
+### ⚙️ Backend Development
+
+Laravel • REST APIs • Livewire • Filament
+
+### 🎨 Frontend
+
+React.js • Vue.js • Alpine.js • Tailwind CSS
+
+### 🗄 Databases
+
+MySQL • PostgreSQL
+
+### 🔧 Tools & Platforms
+
+Git • GitHub • Postman • AWS • TablePlus • cPanel
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 AI Voice Appointment Bot
+
+AI-powered voice assistant that automatically books appointments using conversational AI.
+
+**Tech Stack:**
+Python • Google Gemini API • Twilio
+
+**Features:**
+
+* Voice-based appointment booking
+* Automated conversational flow
+* Real-time data capture
+
+---
+
+### 💰 InnovestPay
+
+Financial investment platform with admin dashboard and automated claim system.
+
+**Tech Stack:**
+Laravel • Filament • Alpine.js
+
+**Features:**
+
+* Role-based dashboards
+* Daily income claim workflow
+* Admin management panel
+
+---
+
+## 📊 GitHub Stats
+
+![Kuldeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mekuldeep\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mekuldeep\&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn
+https://www.linkedin.com/in/iamkul/
+
+📧 Email
+[mekuldeep03@gmail.com](mailto:mekuldeep03@gmail.com)
+
+---
+
+⭐ *Always learning, building, and exploring new technologies in backend development and AI.*
