@@ -21,7 +21,7 @@ Currently exploring **AI-powered backend solutions**, automation systems, and LL
 
 ### 💻 Languages
 
-Python • PHP • JavaScript • SQL • Java • C++
+Python • Flask • PHP • JavaScript • SQL • Java • C++
 
 ### ⚙️ Backend Development
 
