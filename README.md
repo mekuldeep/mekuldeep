@@ -48,7 +48,7 @@ Git • GitHub • Postman • AWS • TablePlus • cPanel
 AI-powered voice assistant that automatically books appointments using conversational AI.
 
 **Tech Stack:**
-Python • Google Gemini API • Twilio
+Python ( Flask ) • Google Gemini API • Twilio
 
 **Features:**
 
