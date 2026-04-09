@@ -9,7 +9,7 @@ Currently exploring **AI-powered backend solutions**, automation systems, and LL
 
 ## 🚀 About Me
 
-* 🔭 Currently working as **Backend Developer**
+* 🔭 Currently working as **Backend Engineer**
 * 🧠 Interested in **AI-powered backend systems**
 * 🌱 Learning **Python, LLMs, LangChain, and AI integrations**
 * 💡 Passionate about building **AI SaaS products**
