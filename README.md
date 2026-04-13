@@ -2,7 +2,7 @@
 
 💻 **Backend Engineer**
 
-Backend developer with **2+ years of experience** building scalable backend systems, REST APIs, and data-driven applications.
+Backend developer with **3+ years of experience** building scalable backend systems, REST APIs, and data-driven applications.
 Currently exploring **AI-powered backend solutions**, automation systems, and LLM integrations while pursuing an **MSc in Computer Science**.
 
 ---
