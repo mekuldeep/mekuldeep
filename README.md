@@ -25,7 +25,7 @@ Python • PHP • JavaScript • SQL • Java • C++
 
 ### ⚙️ Backend Development
 
-Laravel • REST APIs • Livewire • Filament
+FastAPI • Flask • Laravel • REST APIs • Livewire • Filament
 
 ### 🎨 Frontend
 
