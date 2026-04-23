@@ -19,7 +19,7 @@ Currently exploring **AI-powered backend solutions**, automation systems, and LL
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### 💻 Languages 
 
 Python • PHP • JavaScript • SQL • Java • C++
 
