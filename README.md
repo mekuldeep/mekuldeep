@@ -37,7 +37,7 @@ MySQL • PostgreSQL
 
 ### 🔧 Tools & Platforms
 
-Git • GitHub • Postman • Docker • AWS • TablePlus • cPanel
+Git • GitHub • Postman • Docker • AWS
 
 ---
 
