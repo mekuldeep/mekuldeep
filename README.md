@@ -54,7 +54,7 @@ Python ( Flask ) • Google Gemini API • Twilio
 
 * Voice-based appointment booking
 * Automated conversational flow
-* Real-time data capture
+* Real-time data capture 
 
 ---
 
